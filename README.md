@@ -1,6 +1,6 @@
 # Primecitystore-Project-ecommerce-website-
 This is an ecommerce website named "Primecitystore" .Here I will be using Inline CSS and JS codes . No external js and css file is linked to just remain it simple.
-![prime1](https://user-images.githubusercontent.com/119438226/211213657-bb134100-9ccb-4dd2-ac0e-434303e7b72f.png)
+![prime1](https://user-images.githubusercontent.com/119438226/211213657-b![prime13](https://user-images.githubusercontent.com/119438226/211214455-471f63c3-beda-4699-8ba3-9fa40a7ea1d0.png)
 ![prime2](https://user-images.githubusercontent.com/119438226/211213664-118244c8-e868-471f-b201-7d88322120d6.png)
 ![prime3](https://user-images.githubusercontent.com/119438226/211213668-92585e62-df82-4ad2-8345-1ce1fe7f8c4e.png)
 ![prime4](https://user-images.githubusercontent.com/119438226/211213671-851a91a0-75ff-4d8b-ba1f-94fc30ae292e.png)
@@ -12,3 +12,4 @@ This is an ecommerce website named "Primecitystore" .Here I will be using Inline
 ![prime10](https://user-images.githubusercontent.com/119438226/211213693-2d4b0adb-cd3f-402a-90d7-cfbcd227c2f3.png)
 ![prime11](https://user-images.githubusercontent.com/119438226/211213696-6c5d6c14-08d8-4183-8b88-c5392ff7f84a.png)
 ![prime12](https://user-images.githubusercontent.com/119438226/211213698-3ef83353-8674-4f27-96e7-6b7f6cd67d27.png)
+![prime13](https://user-images.githubusercontent.com/119438226/211214463-73f530c8-0d90-4a31-9365-f3209648e863.png)
